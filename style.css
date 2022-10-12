@@ -1,0 +1,75 @@
+body{
+    background-image: red,blue;
+}
+.form{
+    border:1px solid grey;
+    width: 300px;
+    height:400px ;
+    margin-top: 20px;
+    background-color: rgb(242, 245, 247);
+    box-shadow: 0 0 14px 2px rgb(126, 5, 186);
+        }
+
+
+        .buttons{
+            display: flex;
+            padding:10px;
+        }
+        #facebook{
+            width:100px;
+            border-color:  blue;
+            border-radius: 10px;
+            background-color: rgb(20, 20, 233);
+            color: rgb(245, 245, 245);
+       margin-right:10px;
+    
+   
+       
+
+            
+            
+        
+        }
+
+    
+    
+      #username{
+            padding-right: 200px;
+        margin-bottom:-10px;
+            
+         }
+        .input{
+            padding: 5px;
+            width: 250px;
+            padding-top: 20p;
+          
+         }
+    
+         
+         #password{
+            padding-right: 200px;
+         }
+         #btn{
+            width: 260px;
+            padding: 5px;
+            color: white;
+            background-color: rgb(253, 137, 137);
+            border-radius: 5px;
+            border-color: rgb(246, 154, 154);
+
+
+         }
+        .Google{
+            color:black;
+            margin-left:50px;
+            border-color:  rgb(238, 238, 238);
+            border-radius:15px;
+            background-color: rgb(253, 1, 161);
+            width:120px;
+            padding:10px;
+      
+
+        
+            
+        }
+       
